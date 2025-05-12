@@ -49,4 +49,13 @@ body {
       grid-template-columns: 1fr;
     }
   }
-  
+  .hero1 {
+    border: 1px solid lightgrey;
+    padding: 60px;
+    text-align: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0.6)),
+      url("../images/everest1.png");
+    background-size: cover;
+    background-position: center;
+    color: white;
+  }
